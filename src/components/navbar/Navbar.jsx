@@ -29,7 +29,7 @@ const Menu = () => (
         <div className="navbar-links_logo">
           <img src="https://avatars.githubusercontent.com/u/150781803?s=200&v=4" alt="logo" style={{width: "25px"}}/>
           <Link to="/"> 
-            <h1>susanoox</h1>
+            <h1>Qubit</h1>
           </Link>
         </div>
         <div className="navbar-links_container">

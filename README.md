@@ -36,7 +36,7 @@ $ npm start
     
     FontAwesome : https://fontawesome.com/
     
-    Figma : https://uifreebies.net/figma/susanoox-app-ui-kit-free
+    Figma : https://uifreebies.net/figma/Qubit-app-ui-kit-free
     
 
 ### Task
